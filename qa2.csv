@@ -1,0 +1,36 @@
+pID,title,sID,text,post_date,cid
+yfdd,Question 1 Clarification,bSZa17FK2l,Are we to find countries who have won no medals and report all the last names associated with them or find the last names of all athletes who have no medals?,2021/09/05 16:30,ojhbv
+hgfd,Assignment 1 Graded,A1Kcf8Z1u3,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,2021/10/01 7:30,ojhbv
+ytre,Assignment 1 Graded,ize3lkeNiR,How do we setup the Yelp Server?,2021/10/01 7:30,ojhbv
+oiuy,Conceptual question - relational state vs relational schema,Xo3aGKAsfE,Is there a difference between the two?,2021/09/05 10:15,ojhbv
+trew,Assignment 1 Graded,A1Kcf8Z1u3,The grades for assignment 2 are on Canvas. Please see the assignment2_rubric.xlsx file for more details.,2021/10/15 7:25,ojhbv
+vcxz,HW3 Q2,fk7USWbA60,Can we assume each city has a distance name?,2021/10/09 8:30,ojhbv
+trds,HW3,bSZa17FK2l,Are we allowed to create a tempory table to hold intermediate results?,2021/10/15 7:48,ojhbv
+jhgf,Assignment 4 Graded,A1Kcf8Z1u3,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,2021/10/01 7:30,ojhbv
+fxvb,,,,,ojhbv
+treq,A1 Tips,8uv1aK9btU,We've had some great questions during office hours. Here are some FAQ for anyone that might have the same questions. If you resubmit an assignment don't worry about the added number. If you are worried that your code will not compile on our end; test it out by downloading your submitted code on Canvas and trying to compile it again.,2021/09/14 11:45,rtgbn
+uytr,Shuffle Deck,wUSNkrt2i7,Do we have to shuffle the deck at any point?,2021/10/01 14:35,rtgbn
+gfds,Ace value,AyZm6kgtLQ,When exactly do we make the ace a 1 v.s. an 11? Is the rule always to make it an 11 unless it would bust the hand? And what if the first two cards are aces do we make one 1 and the other 11?,2021/10/01 19:01,rtgbn
+asdf,Possible legal moves,qBhsb9AT1D,I'm a bit stumped on how to explore all the possible next moves for the knight whilst also pushing the new boards to the stack. How do I know that a move is legal?,2021/10/14 11:30,rtgbn
+wert,Filename changed after resubmission,loWO7ep40W,The name of my file on canvas changed to KnightTour-1 after I resubmitted it and I just wanted to double check that this will not affect the testing of my code.Ê,2021/10/16 8:37,rtgbn
+tyui,Exceptions,AyZm6kgtLQ,When we throw an exception does it need to stop the program immediately?,2021/10/31 16:35,rtgbn
+poiu,,,,,rtgbn
+hjkl,RA operation,qjAClhRo8T,What does the bowtie symbol mean?,2021/02/04 3:45,567yj
+ghjk,Midterm content,I8k5HwpLlU,What will be covered on the midterm?,2021/04/09 19:13,567yj
+hjku,SQL server,cp5asEx6KR,How do we install PostGresSQL on our local machine?,2021/03/21 4:28,567yj
+ghbm,GROUP BY query,AnRRwDoMFm,Does it matter where GROUP BY is located?,2021/03/29 4:47,567yj
+hjki,Regrade request,l8Ck5AEii7,How do we submit a regrade request for the midterm?,2021/04/25 6:10,567yj
+bnmm,Week 10 Prep,nlNo3Ifie2,Canvas is not allowing me to submit the weekly prep quiz. What should I do?,2021/04/10 12:31,567yj
+vbnm,Week 11 Prep,fe20lUruvB,Does anybody have a link to the Google Cloud Platform?,2021/04/17 12:31,567yj
+hhhh,Final content,EIBGkZJ8LU,What will be covered on the final?,2021/05/01 5:40,567yj
+ikkk,Database normalization,I8k5HwpLlU,What is the difference between 2NF and 3NF?,2021/04/26 1:32,567yj
+ghjk,Java IDE,8uv1aK9btU,Does anybody have any suggestions about a good IDE to use?,2020/09/15 6:53,dfghj
+yuio,Runtime,WVztzxaqG1,My runtimes are larger than what is in the sample runtimes.txt file. Will I lose points?,2020/10/13 22:39,dfghj
+erty,Trouble with delete,lKOmgoDP5M,My delete in the double-ended link list isn't working. It deletes the entire list!,2020/10/28 5:19,dfghj
+fghj,Shuffling for Quicksort,pAA8hhbaAf,What is the best way to shuffle an array at the start of quicksort?,2020/11/12 8:59,dfghj
+vbnv,BST item deletion,bCSKEQsp82,How do you delete if it's not the min or max value?,2020/11/28 3:35,dfghj
+tyuj,Music Industry database Trouble,WJrWAidLZ5,I am trying to create a local copy of the database but it takes an absurdly long time. What should I do?,2020/02/28 5:50,vbnmi
+ergh,Java GUI,tmt3aPs20s,Does it matter if my GUI is ugly?,2020/04/01 0:30,vbnmi
+vhjm,JDK version,PiQvBSPut9,Which JDK version should we be using?,2020/04/02 14:24,vbnmi
+bvnm,Sample midterms,tmt3aPs20s,Are there sample midterm exams?,2020/04/10 13:02,vbnmi
+fhnk,Sample final exams,PiQvBSPut9,Are there solutions for the sample final exams?,2020/05/01 2:08,vbnmi

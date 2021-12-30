@@ -1,0 +1,53 @@
+pID,sID,time,text
+yfdd,ize3lkeNiR,2021/09/05 16:35,I think we are trying to list out the last name of the athletes that are in countries that neither have competed yet or none of their athletes have ranked in the top 3 so far.
+yfdd,WJrWAidLZ5,2021/09/05 20:45,Yes Elaine is correct in this response.
+oiuy,ize3lkeNiR,2021/09/05 13:35,The relational schema is the structure and design of the relation such as the attribute list. The relation state is like the table content at any given moment.
+oiuy,A1Kcf8Z1u3,2021/09/05 15:45,You can draw an analogy between the relational schema and classes in Java. Then you can think of relation state as the objects that are defined at that particular time.
+trew,ize3lkeNiR,2021/10/15 13:32,The numbers seem to be incorrect and it seems the points were posted?
+trew,A1Kcf8Z1u3,2021/10/15 20:02,Sorry about the mistake the correct question items were posted now.
+trew,A3mMrNEFsy,2021/10/15 23:32,Where can we find the spreadsheet?
+trew,tmt3aPs20s,2021/10/15 23:59,The spreadsheet is under the Assignment2 folder.
+trew,A3mMrNEFsy,2021/10/16 0:11,Thanks Nikhil!
+vcxz,A1Kcf8Z1u3,2021/10/09 10:24,You can assume that each city has a distance name so you would consider Atlanta GA to be the same name as Atlanta FL
+vcxz,Xo3aGKAsfE,2021/10/25 13:45,Does this apply for Q9 as well?
+vcxz,loWO7ep40W,2021/10/25 18:21,Not sure which part you are asking but if its whether Beaverton only exists in OR then no.
+trds,PiQvBSPut9,2021/10/16 6:23,You can use temporal relations (see WITH and FROM) to do this rather than create temporary tables
+uytr,qBhsb9AT1D,2021/10/01 17:41,I believe just choosing a random card from the deck to deal out cards is enough.
+uytr,A1Kcf8Z1u3,2021/10/01 18:51,As long as there is some point of randomness that is involved it will be sufficient.
+uytr,YXCMIivcy6,2021/10/03 4:32,Should we consider the situation when the deck is running out of cards?
+uytr,cp5asEx6KR,2021/10/03 8:47,Yes your application should gracefully handle this situation.
+gfds,wUSNkrt2i7,2021/10/01 20:23,I think there's no specific rule in Blackjack for when an ace is counted as a 1 or an 11. I assumed we have to keep track of the total score in both cases: when the ace is a 1 and when the ace is an 11.
+gfds,RxNqRHaaoI,2021/10/01 23:22,The general rule of thumb is that the Ace will take on the value of whatever will help the holder the most
+asdf,YXCMIivcy6,2021/10/14 17:11,Take advantage of what the method move() returns. It is true in certain situations and false in others. You can then push depending on the value.
+asdf,RwKSObZt8b,2021/10/15 5:19,The move method checks if a move is legal for you. You should use this method to change the behavior of your code based on whether or not it returns true or false.
+wert,QVsfnLS8nP,2021/10/16 12:01,Resubmissions with the same filename on Canvas will automatically add a -1 etc to the files. The student answer is correct in that you will not be penalized for this.
+wert,qBhsb9AT1D,2021/10/16 10:04,This actually happened to me as well on the previous assignment. I was told that I wouldn't be penalized so I think you'll be fine
+tyui,wUSNkrt2i7,2021/10/31 20:01,Exceptions stop execution
+hjkl,v9ksRoAENe,2021/02/04 7:05,I think the bowtie means natural join
+ghjk,JulFHBBgP9,2021/04/09 20:26,Everything up until today's lecture can be included as material on the exam
+hjku,A1Kcf8Z1u3,2021/03/21 10:59,Use homebrew to install Postgres on Mac and Linux. Download the windows installer to install on Windows.
+ghbm,OhfDW5FQet,2021/03/29 4:47,I think it does matter. I must be after the WHERE clause and before the HAVING; LIMIT; and ORDER BY
+ghbm,A1Kcf8Z1u3,2021/03/29 9:35,Hanna is correct. SQL first executes the FROM; then WHERE; before finally performing the GROUP BY clause
+hjki,JulFHBBgP9,2021/04/25 13:39,Please submit a regrade request via email to me with the email header [CS377]
+bnmm,Rjuqf7P3nX,2021/04/10 17:01,Have you tried reloading the page or clearing your cache?
+vbnm,QVsfnLS8nP,2021/04/17 16:11,Try cloud.google.com
+hhhh,JulFHBBgP9,2021/05/01 5:48,Everything covered in the class can appear on the final exam
+ikkk,JulFHBBgP9,2021/04/26 7:35,2NF looks at partial functional dependency while 3NF ensures no non-prime attribute functionally determines another non-prime attribute
+ikkk,qjAClhRo8T,2021/04/26 8:11,Why is database normalization important?
+ikkk,Rjuqf7P3nX,2021/04/26 12:41,Database normalization is important because it's a rite of passage into the database community
+ghjk,RxNqRHaaoI,2020/09/15 8:01,I like Sublime Text Editor and using the command line to compile
+ghjk,RwKSObZt8b,2020/09/15 8:23,Have you tried Eclipse? It's the best!
+ghjk,AnRRwDoMFm,2020/09/15 11:04,What about Netbeans? It was originally part of the JDK.
+ghjk,ECk9NPOnC1,2020/09/15 11:05,IntelliJ is also another useful IDE
+ghjk,JulFHBBgP9,2020/09/15 11:55,Microsoft Visual Studio has a student developer pack as well.
+yuio,ECk9NPOnC1,2020/10/13 22:55,As long as its within reasonable time frames you will not be deducted points.
+erty,ECk9NPOnC1,2020/10/28 5:19,You may want to verify that you are appropriately updating your variables. Try using System.out.println.
+fghj,JulFHBBgP9,2020/11/12 14:10,You may want to explore different shuffle variants that are found on Wikipedia.
+vbnv,JulFHBBgP9,2020/11/28 9:18,You may want to rewatch the lecture 23 and reread the slides to see how this is solved for the general case.
+tyuj,JulFHBBgP9,2020/02/28 7:41,Please try using the GCP instance to avoid having to implement your local copy.
+ergh,fC8CoZyN8g,2020/04/01 2:35,No it doesn't matter so long as it can functionally browse the database.
+ergh,tmt3aPs20s,2020/04/01 11:05,Do I need to sanitize the user input?
+ergh,JulFHBBgP9,2020/04/01 14:15,You can assume that we will be reasonable users and not try to hack your system.
+vhjm,WJrWAidLZ5,2020/04/02 19:47,I believe we should be using JDK 8.0
+bvnm,JulFHBBgP9,2020/04/10 14:49,Yes they have been uploaded onto Canvas.
+fhnk,JulFHBBgP9,2020/05/02 5:37,No there won't be any solutions for the sample final problems.
